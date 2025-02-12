@@ -1,11 +1,9 @@
-Aqui está a versão revisada com o **tópico Detalhamento do Código** expandido e aprimorado, detalhando todas as partes do código e explicando seu funcionamento técnico.
-
 ---
 
 # Uso de Conversor Analógico / Digital em Microcontrolador Raspberry Pico W 2040  
 **Display SSD1306, Joystick, Lâmpadas RGB e Acessórios**
 
----
+---git
 
 ## Autor do Projeto  
 **Dr. Marlon da Silva Garrido**  
