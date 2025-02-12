@@ -44,9 +44,9 @@ Este projeto foi desenvolvido no âmbito das atividades do **EMBARCATECH 2024/25
 ## Diagrama Simplificado de Conexões
 
 ```
-+-----------------------------------------------------+
-|                Placa BitDogLab / Pico               |
-|                                                     |
++--------------------------------------------------------+
+|                Placa BitDogLab / Pico                  |
+|                                                        |
 | GPIO 11  -----------------------> LED RGB (Verde)      |
 | GPIO 12  -----------------------> LED RGB (Azul)       |
 | GPIO 13  -----------------------> LED RGB (Vermelho)   |
@@ -56,7 +56,7 @@ Este projeto foi desenvolvido no âmbito das atividades do **EMBARCATECH 2024/25
 | GPIO 5   -----------------------> Botão A              |
 | GPIO 14  -----------------------> SDA (Display OLED)   |
 | GPIO 15  -----------------------> SCL (Display OLED)   |
-+-----------------------------------------------------+
++--------------------------------------------------------+
 ```
 
 ---
