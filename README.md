@@ -199,7 +199,7 @@ O código principal integra múltiplas funções, bibliotecas e conceitos, como 
 ## Demonstração em Vídeo
 
 Assista à demonstração completa do projeto:  
-[Link do Vídeo](#) *(Em breve)*  
+[Link do Vídeo](#) (https://youtu.be/-_xJ_0UEzPQ)
 
 ---
 
